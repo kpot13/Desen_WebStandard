@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+  <html lang="pt-br">
+    <head>
+       <meta charset="utf-8">
+       <title>receita torta cremosa de bacon com queijo</title>
+       <meta name="author" content="Diego Honorio">
+       <meta name="description" content="Receita de bacon e queijo - Receita facil">
+       <meta name="keywords" content="torta, cremosa, bacon, queijo, saborosa, gostosa, rapida, facil">
+       <meta name="robots" content="index,follow">
+   </head>
+      <body>
+         <header><center><h1>Torta Cremosa de Bacon com Queijo</h1></center></header>
+               <nav>  
+                   <h1>Receitas</h1>                
+                   <ul>
+                   <li><a href="#">outra receita</a></li>
+                   <li><a href="#">outra receita</a></li>
+                   <li><a href="#">outra receita</a></li>
+                   <li><a href="#">outra receita</a></li>
+                   </ul>
+                   </nav>
+         <section>
+                   <h2>Ingredientes</h2>
+                   <p>Massa</p>
+                     <ul>
+                     <li>2 xícaras(chá) de farinha de trigo</li>
+                     <li>1/2 xícara(chá) de manteiga</li>
+                     <li>6 colheres(sopa)de água</li>
+                     </ul>
+                   <p>Recheio</p>
+                     <ul>
+                   <li>400 g de bacon em cubos</li>
+                   <li>1 cebola picada</li>
+                   <li>1/2 pimentão</li>
+                   </ul>
+                   <p>Creme</p>
+                   <ul>
+                   <li>2 caixinhas de creme de leite(400 g)</li>
+                   <li>3 ovos</li>
+                   <li>100 g de queijo parmesão ralado</li>
+                   <li>salsa picada a gosto</li>
+                   </ul>
+                   <h2>Modo de preparo.</h2>
+                   <p>Massa:</p>
+                   <p></p>
+                   <p>Junte os ingredientes e misture bem com as mãos até virar uma massa homogênea, cubra com filme plástico</p>
+                   <p>e leve à geladeira por 20 min.forre uma assadeira redonda de 24 cm com a massa,cubra com papel alumínio</p>
+                   <p>e coloque feijão para fazer peso na massa e não criar bolhas, asse em forno pré aquecido(200°c)por 25</p>
+                   <p>minutos e retire os grãos de feijão e o papel alumínio e reserve.</p>
+                   <p>Recheio:</p>
+                   <p></p>
+                   <p>frite o bacon na sua própria gordura,retire-o e refogue a cebola e o pimentão, reserve.<p/>
+                   <p>Creme:</p>
+                   <p></p>
+                   <p>junte os ovos com o creme de leite e misture bem com um batedor, acrescente o queijo,a salsa, cebola, pimentão e o bacon.
+                   <p>Montagem:</p>
+                   <p></p>
+                   <p>despeje o creme na massa e leve pra assar em forno pré aquecido(180°c)por cerca de 35 min.ou até a superfície ficar dourada,</p>
+                   <p>retire e desenforme e sirva em seguida.
+         </section>
+         <footer>Tecnologia em Produção Multimídia</footer>
+</body>
+</html>
